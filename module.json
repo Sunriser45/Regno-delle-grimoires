@@ -1,0 +1,46 @@
+{
+  "name": "regno-delle-grimoires",
+  "title": "Regno delle Grimoires",
+  "description": "",
+  "author": "R20Converter",
+  "version": "0.9.11",
+  "minimumCoreVersion": "0.6.0",
+  "compatibleCoreVersion": "1.0.0",
+  "packs": [
+    {
+      "name": "journal",
+      "label": "Handouts (Regno delle Grimoires)",
+      "path": "packs/journal.db",
+      "module": "regno-delle-grimoires",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "actors",
+      "label": "Actors (Regno delle Grimoires)",
+      "path": "packs/actors.db",
+      "module": "regno-delle-grimoires",
+      "entity": "Actor"
+    },
+    {
+      "name": "scenes",
+      "label": "Scenes (Regno delle Grimoires)",
+      "path": "packs/scenes.db",
+      "module": "regno-delle-grimoires",
+      "entity": "Scene"
+    },
+    {
+      "name": "decks",
+      "label": "Decks (Regno delle Grimoires)",
+      "path": "packs/decks.db",
+      "module": "regno-delle-grimoires",
+      "entity": "RollTable"
+    },
+    {
+      "name": "cards",
+      "label": "Deck Cards (Regno delle Grimoires)",
+      "path": "packs/cards.db",
+      "module": "regno-delle-grimoires",
+      "entity": "Item"
+    }
+  ]
+}
