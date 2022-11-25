@@ -10,6 +10,7 @@
     {
       "name": "journal",
       "label": "Handouts (Regno delle Grimoires)",
+      "system": "dnd5e",
       "path": "packs/journal.db",
       "module": "regno-delle-grimoires",
       "entity": "JournalEntry"
@@ -17,6 +18,7 @@
     {
       "name": "actors",
       "label": "Actors (Regno delle Grimoires)",
+      "system": "dnd5e",
       "path": "packs/actors.db",
       "module": "regno-delle-grimoires",
       "entity": "Actor"
@@ -24,6 +26,7 @@
     {
       "name": "scenes",
       "label": "Scenes (Regno delle Grimoires)",
+      "system": "dnd5e",
       "path": "packs/scenes.db",
       "module": "regno-delle-grimoires",
       "entity": "Scene"
@@ -31,6 +34,7 @@
     {
       "name": "decks",
       "label": "Decks (Regno delle Grimoires)",
+      "system": "dnd5e",
       "path": "packs/decks.db",
       "module": "regno-delle-grimoires",
       "entity": "RollTable"
@@ -38,6 +42,7 @@
     {
       "name": "cards",
       "label": "Deck Cards (Regno delle Grimoires)",
+      "system": "dnd5e",
       "path": "packs/cards.db",
       "module": "regno-delle-grimoires",
       "entity": "Item"
