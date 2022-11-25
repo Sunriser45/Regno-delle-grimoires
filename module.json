@@ -8,6 +8,7 @@
   "compatibleCoreVersion": "1.0.0",
   "packs": [
     {
+      
       "name": "journal",
       "label": "Handouts (Regno delle Grimoires)",
       "system": "dnd5e",
